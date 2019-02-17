@@ -1,0 +1,5 @@
+dog:a household pet 
+cat:a household pet 
+gerbils:a household pet
+lol:laugh out loud 
+

@@ -1,0 +1,9 @@
+dog:a household pet animal 
+cat:a household pet 
+hamster:a household pet 
+chips:a snack food 
+beetles:bugs 
+pretty:attractive 
+cute:attractive 
+chair:a seat 
+
