@@ -1,5 +1,5 @@
 # iNAP
-A java based application made in NetBeans.
+A java based "Chat-bot" application made in NetBeans.
 ## Functionalities
 User can engage in general conversation with the application. When the user mentions an unfamilliar word, they are then asked what that word means. The user can then explain this word and when it is brought up again in conversation, the application will recall what it means.
 
